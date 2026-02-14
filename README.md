@@ -1,25 +1,14 @@
-## Hi there!
-<!--
-**DanielGuajardo/DanielGuajardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there!
 I'm Daniel, a data analyst based in the United States.
 
-I am currently working on identifying customer and sales trends in retail spaces through tools like SQL, Python, & R.
+I am currently working on identifying customer and sales trends in retail spaces.
 
-I love bringing data to life and creating visualizations that drive home the analyses' story in Tableau and ggplot; nothing
+I love bringing data to life and creating visualizations that drive home the analyses' story; nothing
 beats the "a-ha!" moment when a deep dive into the data reveals the key insights, trends or focus points stakeholders are
 constantly after.
+
+My current tech stack includes SQL, Python, R, & Tableau. I am in constant pursuit of more efficient and effective means
+of exploring data.
 
 **Fun Facts**
 - I have three cats
