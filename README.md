@@ -7,7 +7,7 @@ I love bringing data to life and creating visualizations that drive home the ana
 beats the "a-ha!" moment when a deep dive into the data reveals the key insights, trends or focus points stakeholders are
 constantly after.
 
-My current tech stack includes SQL, Python, R, & Tableau. I am in constant pursuit of more efficient and effective means
+My current tech stack includes PostgreSQL, Python, R, & Tableau. I am in constant pursuit of more efficient and effective means
 of exploring data.
 
 **Fun Facts**
